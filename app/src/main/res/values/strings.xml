@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crownstack</string>
+    <string name="connecttonet">Connect to Internet</string>
+    <string name="error_server_error">Server Error</string>
+</resources>
